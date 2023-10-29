@@ -1,0 +1,101 @@
+[
+  {
+    "id": 9,
+    "first_name": "Gojo",
+    "last_name": "Satoru",
+    "phone": "2557894",
+    "email": "g.satoru@gmail.com",
+    "creation_date": "2023-10-20 15:42:58",
+    "last_edit_date": "2023-10-22 13:25:37"
+  },
+  {
+    "id": 15,
+    "first_name": "Jolyne",
+    "last_name": "Cujoh",
+    "phone": "3336565",
+    "email": "j.cujoh@gmail.com",
+    "creation_date": "2023-10-20 15:52:10",
+    "last_edit_date": "2023-10-21 13:39:31"
+  },
+  {
+    "id": 16,
+    "first_name": "Madara",
+    "last_name": "Uchiha",
+    "phone": "334785",
+    "email": "madara.uchiha@gmail.com",
+    "creation_date": "2023-10-20 17:16:17",
+    "last_edit_date": "2023-10-21 11:13:24"
+  },
+  {
+    "id": 17,
+    "first_name": "Hakan",
+    "last_name": "Yalcinkaya",
+    "phone": "55123",
+    "email": "hy@hy.com",
+    "creation_date": "2023-10-20 17:27:13",
+    "last_edit_date": "2023-10-21 21:13:00"
+  },
+  {
+    "id": 18,
+    "first_name": "Hilal",
+    "last_name": "Kocak",
+    "phone": "4487551",
+    "email": "h.kocak@gmail.com",
+    "creation_date": "2023-10-20 18:00:37",
+    "last_edit_date": "2023-10-21 23:50:28"
+  },
+  {
+    "id": 19,
+    "first_name": "Jonathan",
+    "last_name": "Joestar",
+    "phone": "55123",
+    "email": "hg@hg.com",
+    "creation_date": "2023-10-20 18:27:53",
+    "last_edit_date": "2023-10-21 21:04:46"
+  },
+  {
+    "id": 20,
+    "first_name": "Hashirama",
+    "last_name": "Senju",
+    "phone": "20000606",
+    "email": "senju@gmail.com",
+    "creation_date": "2023-10-21 11:12:09",
+    "last_edit_date": "2023-10-21 13:35:27"
+  },
+  {
+    "id": 21,
+    "first_name": "Vanessa",
+    "last_name": "Enoteca",
+    "phone": "741258",
+    "email": "vanenoteca@gmail.com",
+    "creation_date": "2023-10-22 01:21:39",
+    "last_edit_date": "2023-10-22 01:21:39"
+  },
+  {
+    "id": 22,
+    "first_name": "Mei",
+    "last_name": "Mei",
+    "phone": "987456321",
+    "email": "m.mei@example.com",
+    "creation_date": "2023-10-22 13:26:46",
+    "last_edit_date": "2023-10-22 13:26:46"
+  },
+  {
+    "id": 23,
+    "first_name": "Ugur can",
+    "last_name": "Unal",
+    "phone": "5060680223",
+    "email": "ugurcanunal4@gmail.com",
+    "creation_date": "2023-10-29 21:05:00",
+    "last_edit_date": "2023-10-29 21:05:00"
+  },
+  {
+    "id": 24,
+    "first_name": "Nacht",
+    "last_name": "Faust",
+    "phone": "4449944",
+    "email": "nacht_faust@clover.com",
+    "creation_date": "2023-10-29 21:06:22",
+    "last_edit_date": "2023-10-29 21:09:03"
+  }
+]
